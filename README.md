@@ -63,6 +63,28 @@ Windows → Astra Linux migration.
 
 <td width="50%" valign="top">
 
+<h3>Aveli</h3>
+
+<p><strong>System analysis of an offline-first mobile workspace.</strong></p>
+
+<p>
+Mobile architecture, local data ownership, REST API boundaries,
+authentication and access, subscription billing, offline behavior
+and traceability for a real Flutter-based product.
+</p>
+
+<a href="https://github.com/branch-danya-dev/aveli-system-analysis">
+<img src="https://img.shields.io/badge/Open%20Aveli%20Case-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>Rebar AutoDim</h3>
 
 <p><strong>System analysis and solution design for Autodesk Revit 2025 automation.</strong></p>
@@ -76,6 +98,17 @@ idempotency and traceability.
 <a href="https://github.com/branch-danya-dev/revit-rebar-autodim-analysis">
 <img src="https://img.shields.io/badge/Open%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p><strong>More cases are being added.</strong></p>
+
+<p>
+The profile focuses on real systems, commercial constraints,
+implementation-aware analysis and technical solution design.
+</p>
 
 </td>
 
