@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daniel%20Rogulin&fontAlign=50&fontAlignY=38&desc=System%20Analyst%20%C2%B7%20Enterprise%20IT%20%C2%B7%20Technical%20Solutions&descAlign=50&descAlignY=58&animation=fadeIn" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daniel%20Rogulin&fontAlign=50&fontAlignY=38&desc=System%20Analysis%20%C2%B7%20Architecture%20%C2%B7%20APIs%20%C2%B7%20Implementation&descAlign=50&descAlignY=58&animation=fadeIn" alt="Profile banner" />
 </p>
 
 <p align="center">
@@ -12,29 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/branch-danya-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="./README.md"><strong>EN</strong></a>
+  &nbsp;·&nbsp;
+  <a href="./README_RU.md">RU</a>
 </p>
 
----
-
-## About Me
-
-I combine system analysis with practical software development.
-
-My background includes enterprise IT, technical solution design, system behavior analysis, process formalization and implementation of production software.
-
-I am especially interested in:
-
-- system and integration analysis;
-- requirements engineering;
-- API and contract design;
-- data and process modeling;
-- technical automation;
-- turning analytical models into working software.
-
-> I prefer analysis that can be implemented — requirements, contracts and architecture should remain valid when they reach real code.
+<p align="center">
+  <a href="https://github.com/branch-danya-dev/system-analysis-portfolio">
+    <img src="https://img.shields.io/badge/View%20System%20Analysis%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -103,17 +90,43 @@ idempotency and traceability.
 
 <td width="50%" valign="top">
 
-<p><strong>More cases are being added.</strong></p>
+<h3>Full Portfolio</h3>
+
+<p><strong>Curated system-analysis cases across different system types.</strong></p>
 
 <p>
-The profile focuses on real systems, commercial constraints,
-implementation-aware analysis and technical solution design.
+Enterprise IT, mobile architecture and BIM automation —
+with requirements, diagrams, business rules, data models,
+integrations and traceability.
 </p>
+
+<a href="https://github.com/branch-danya-dev/system-analysis-portfolio">
+<img src="https://img.shields.io/badge/Explore%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 </tr>
 </table>
+
+---
+
+## About Me
+
+I combine system analysis with practical software development.
+
+My background includes enterprise IT, technical solution design, process formalization and implementation of production software.
+
+I focus on:
+
+- system and integration analysis;
+- requirements engineering and business rules;
+- API and contract design;
+- data and process modeling;
+- system behavior and state models;
+- implementation-aware solution design.
+
+> I prefer analysis that can be implemented — requirements, contracts and architecture should remain valid when they reach real code.
 
 ---
 
@@ -158,26 +171,14 @@ implementation-aware analysis and technical solution design.
 
 ---
 
-## What I'm Building Toward
+## Areas of Focus
 
-My current focus is strengthening the system-analysis side of my technical background:
-
-- deeper SQL for analytical tasks;
-- OpenAPI and API contract design;
-- Postman and integration testing;
-- BPMN 2.0 and UML sequence/component modeling;
-- data modeling and ERD;
-- event-driven architecture and messaging basics;
-- production-oriented integration patterns.
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=branch-danya-dev&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branch-danya-dev&layout=compact&hide_border=true" />
-</p>
+- System & integration analysis
+- Requirements and business rules
+- REST API & contract design
+- Data modeling
+- System behavior and state models
+- Implementation-aware solution design
 
 ---
 
@@ -190,5 +191,5 @@ My current focus is strengthening the system-analysis side of my technical backg
 </p>
 
 <p align="center">
-  <sub>System analysis · enterprise IT · technical solutions · implementation</sub>
+  <sub>System analysis · architecture · integrations · implementation</sub>
 </p>
