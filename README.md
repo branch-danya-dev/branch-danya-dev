@@ -130,6 +130,28 @@ I focus on:
 
 ---
 
+## Education
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<strong>Moscow State University of Technology and Management</strong><br>
+Institute of Economics and Business<br>
+Accounting, Analysis and Audit
+
+</td>
+
+<td width="30%" align="right" valign="top">
+
+<strong>Higher Education</strong><br>
+Graduation: 2026
+
+</td>
+</tr>
+</table>
+
+
 ## System Analysis Toolkit
 
 <p>
@@ -173,23 +195,35 @@ I focus on:
 
 ## Areas of Focus
 
-- System & integration analysis
-- Requirements and business rules
-- REST API & contract design
-- Data modeling
-- System behavior and state models
-- Implementation-aware solution design
+<p>
+  <img src="https://img.shields.io/badge/System%20Analysis-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integration%20Analysis-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Requirements-Engineering-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Rules-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Contracts-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Process%20Modeling-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State%20Models-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solution%20Design-0D1117?style=for-the-badge" />
+</p>
 
 ---
 
 ## Contact
 
 <p align="center">
+  <a href="https://t.me/sadblueses">
+    <img src="https://img.shields.io/badge/Telegram-@sadblueses-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:danrogulin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danrogulin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/branch-danya-dev">
     <img src="https://img.shields.io/badge/GitHub-branch--danya--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>System analysis · architecture · integrations · implementation</sub>
+  <sub>Open to system analysis, integration and architecture opportunities.</sub>
 </p>

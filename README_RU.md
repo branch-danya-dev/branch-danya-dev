@@ -130,6 +130,28 @@ Enterprise IT, мобильная архитектура и BIM-автомати
 
 ---
 
+## Образование
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<strong>Московский государственный университет технологий и управления</strong><br>
+Институт экономики и бизнеса<br>
+Бухгалтерский учет, анализ и аудит
+
+</td>
+
+<td width="30%" align="right" valign="top">
+
+<strong>Высшее образование</strong><br>
+Год окончания: 2026
+
+</td>
+</tr>
+</table>
+
+
 ## Инструментарий системного анализа
 
 <p>
@@ -173,23 +195,35 @@ Enterprise IT, мобильная архитектура и BIM-автомати
 
 ## Основные направления
 
-- Системный и интеграционный анализ
-- Требования и бизнес-правила
-- REST API и проектирование контрактов
-- Моделирование данных
-- Поведение систем и state-модели
-- Проектирование решений с учетом реализации
+<p>
+  <img src="https://img.shields.io/badge/Системный%20анализ-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Интеграционный%20анализ-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Требования-Engineering-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Бизнес--правила-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Contracts-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Моделирование%20данных-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Моделирование%20процессов-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State%20Models-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Проектирование%20решений-0D1117?style=for-the-badge" />
+</p>
 
 ---
 
 ## Контакты
 
 <p align="center">
+  <a href="https://t.me/sadblueses">
+    <img src="https://img.shields.io/badge/Telegram-@sadblueses-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:danrogulin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danrogulin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/branch-danya-dev">
     <img src="https://img.shields.io/badge/GitHub-branch--danya--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Системный анализ · архитектура · интеграции · реализация</sub>
+  <sub>Открыт к предложениям в системном анализе, интеграциях и архитектуре решений.</sub>
 </p>
