@@ -216,12 +216,22 @@ Graduation: 2026
   <a href="https://t.me/sadblueses">
     <img src="https://img.shields.io/badge/Telegram-@sadblueses-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:danrogulin@gmail.com">
     <img src="https://img.shields.io/badge/Email-danrogulin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/branch-danya-dev">
     <img src="https://img.shields.io/badge/GitHub-branch--danya--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Open to system analysis, integration and architecture opportunities.</sub>
 </p>
 
 <p align="center">
