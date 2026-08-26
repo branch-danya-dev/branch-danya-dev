@@ -41,41 +41,45 @@ I am especially interested in:
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Enterprise Workplace OS Migration</h3>
-      <p>
-        System analysis of a large-scale enterprise workplace migration.
-      </p>
-      <p>
-        Requirements, dependency analysis, rollout logic, migration states,
-        process modeling and technical artifacts for a phased
-        Windows → Astra Linux migration.
-      </p>
-      <p>
-        <a href="https://github.com/branch-danya-dev/enterprise-workplace-os-migration">
-          <img src="https://img.shields.io/badge/Open%20Case-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
+<tr>
 
-    <td width="50%" valign="top">
-      <h3>Rebar AutoDim</h3>
-      <p>
-        System analysis and solution design for Autodesk Revit 2025 automation.
-      </p>
-      <p>
-        AS-IS / TO-BE, requirements, geometry processing, directional grid
-        selection, placement logic, Revit API interaction, errors,
-        idempotency and traceability.
-      </p>
-      <p>
-        <a href="https://github.com/branch-danya-dev/revit-rebar-autodim-analysis">
-          <img src="https://img.shields.io/badge/Open%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+<h3>Enterprise Workplace OS Migration</h3>
+
+<p><strong>System analysis of a large-scale enterprise workplace migration.</strong></p>
+
+<p>
+Requirements, dependency analysis, rollout logic, migration states,
+process modeling and technical artifacts for a phased
+Windows → Astra Linux migration.
+</p>
+
+<a href="https://github.com/branch-danya-dev/enterprise-workplace-os-migration">
+<img src="https://img.shields.io/badge/Open%20Case-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Rebar AutoDim</h3>
+
+<p><strong>System analysis and solution design for Autodesk Revit 2025 automation.</strong></p>
+
+<p>
+AS-IS / TO-BE, requirements, geometry processing, directional grid
+selection, placement logic, Revit API interaction, errors,
+idempotency and traceability.
+</p>
+
+<a href="https://github.com/branch-danya-dev/revit-rebar-autodim-analysis">
+<img src="https://img.shields.io/badge/Open%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
