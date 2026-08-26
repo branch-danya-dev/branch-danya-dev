@@ -40,33 +40,43 @@ I am especially interested in:
 
 ## Featured Projects
 
-### Enterprise Workplace OS Migration
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Enterprise Workplace OS Migration</h3>
+      <p>
+        System analysis of a large-scale enterprise workplace migration.
+      </p>
+      <p>
+        Requirements, dependency analysis, rollout logic, migration states,
+        process modeling and technical artifacts for a phased
+        Windows → Astra Linux migration.
+      </p>
+      <p>
+        <a href="https://github.com/branch-danya-dev/enterprise-workplace-os-migration">
+          <img src="https://img.shields.io/badge/Open%20Case-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
 
-**System analysis of a large-scale enterprise workplace migration**
-
-Requirements, dependency analysis, rollout logic, migration states, process modeling and technical artifacts for a phased Windows → Astra Linux migration.
-
-[![Repository](https://img.shields.io/badge/Open%20Case-181717?style=flat-square&logo=github)](https://github.com/branch-danya-dev/enterprise-workplace-os-migration)
-
----
-
-### Rebar AutoDim — System Analysis
-
-**System analysis and solution design for Autodesk Revit 2025 automation**
-
-Covers AS-IS / TO-BE, requirements, business rules, geometry processing, directional grid selection, placement logic, Revit API interaction, errors, idempotency and traceability.
-
-[![Repository](https://img.shields.io/badge/Open%20Analysis-181717?style=flat-square&logo=github)](https://github.com/branch-danya-dev/revit-rebar-autodim-analysis)
-
----
-
-### Rebar AutoDim — Implementation
-
-**Working implementation based on the analysis above**
-
-Planned as a separate repository to demonstrate traceability from requirements and architecture to production code.
-
-`Coming soon`
+    <td width="50%" valign="top">
+      <h3>Rebar AutoDim</h3>
+      <p>
+        System analysis and solution design for Autodesk Revit 2025 automation.
+      </p>
+      <p>
+        AS-IS / TO-BE, requirements, geometry processing, directional grid
+        selection, placement logic, Revit API interaction, errors,
+        idempotency and traceability.
+      </p>
+      <p>
+        <a href="https://github.com/branch-danya-dev/revit-rebar-autodim-analysis">
+          <img src="https://img.shields.io/badge/Open%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
