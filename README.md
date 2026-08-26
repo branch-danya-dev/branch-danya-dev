@@ -233,7 +233,3 @@ Graduation: 2026
 <p align="center">
   <sub>Open to system analysis, integration and architecture opportunities.</sub>
 </p>
-
-<p align="center">
-  <sub>Open to system analysis, integration and architecture opportunities.</sub>
-</p>
