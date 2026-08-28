@@ -117,6 +117,8 @@ I combine system analysis with practical software development.
 
 My background includes enterprise IT, technical solution design, process formalization and implementation of production software.
 
+![You know, I'm Something of a developer myself](./assets/meme_en.png)
+
 I focus on:
 
 - system and integration analysis;
