@@ -107,6 +107,29 @@ Enterprise IT, мобильная архитектура и BIM-автомати
 </td>
 
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<h3>SSAD — System-Structured Analysis Documentation</h3>
+
+<p><strong>Разработал, формализовал и применил собственную практическую методологию системного анализа.</strong></p>
+
+<p>
+SSAD строит аналитическое знание вокруг реальных границ системы, зон ответственности и ownership вместо универсального набора типов документов.
+Методология появилась из практической работы над системным анализом: я сформировал её принципы, workflow и аналитическую модель, а затем применил подход в реальном проекте Aveli как проверочный кейс.
+</p>
+
+<p>
+Публичный репозиторий включает foundation методологии, полный рабочий цикл системного аналитика, механику анализа, архитектуру знаний, collaboration/change-модели, task-based checklist'ы, real-world примеры и критерии зрелости для v1.0.
+</p>
+
+<a href="https://github.com/branch-danya-dev/ssad-methodology">
+<img src="https://img.shields.io/badge/Открыть%20SSAD%20Methodology-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
