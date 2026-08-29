@@ -107,6 +107,29 @@ integrations and traceability.
 </td>
 
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<h3>SSAD — System-Structured Analysis Documentation</h3>
+
+<p><strong>Designed, formalized and applied my own practical system-analysis methodology.</strong></p>
+
+<p>
+SSAD structures analytical knowledge around real system boundaries, responsibilities and ownership instead of a universal document taxonomy.
+I developed the methodology from practical system-analysis work, documented its workflow and analytical model, and applied it to the real Aveli system-analysis project as a validation case.
+</p>
+
+<p>
+The public repository includes the methodology foundation, end-to-end analyst workflow, analysis mechanics, knowledge architecture, collaboration and change models, task-based checklists, real-world examples and a v1.0 maturity roadmap.
+</p>
+
+<a href="https://github.com/branch-danya-dev/ssad-methodology">
+<img src="https://img.shields.io/badge/Open%20SSAD%20Methodology-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
