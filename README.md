@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daniel%20Rogulin&fontAlign=50&fontAlignY=38&desc=System%20Analysis%20%C2%B7%20Architecture%20%C2%B7%20APIs%20%C2%B7%20Implementation&descAlign=50&descAlignY=58&animation=fadeIn" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Daniel%20Rogulin&fontAlign=50&fontAlignY=38&desc=System%20Analysis%20%C2%B7%20Integrations%20%C2%B7%20Solution%20Design%20%C2%B7%20Implementation&descAlign=50&descAlignY=58&animation=fadeIn" alt="Profile banner" />
 </p>
 
 <p align="center">
@@ -19,7 +19,15 @@
 
 <p align="center">
   <a href="https://github.com/branch-danya-dev/system-analysis-portfolio">
-    <img src="https://img.shields.io/badge/View%20System%20Analysis%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/System%20Analysis-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/sadblueses">
+    <img src="https://img.shields.io/badge/Telegram-@sadblueses-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:danrogulin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -29,83 +37,73 @@
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <h3>Enterprise Workplace OS Migration</h3>
 
-<p><strong>System analysis of a large-scale enterprise workplace migration.</strong></p>
+<p><strong>Real enterprise migration case reconstructed through system analysis.</strong></p>
 
 <p>
-Requirements, dependency analysis, rollout logic, migration states,
-process modeling and technical artifacts for a phased
-Windows → Astra Linux migration.
+A phased Windows → Astra Linux workplace migration with distributed responsibility,
+readiness evaluation, planning, execution, blockers, recovery and operational validation.
 </p>
 
 <a href="https://github.com/branch-danya-dev/enterprise-workplace-os-migration">
-<img src="https://img.shields.io/badge/Open%20Case-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Case-Enterprise%20Migration-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>Aveli</h3>
 
-<p><strong>System analysis of an offline-first mobile workspace.</strong></p>
+<p><strong>System analysis of a local-first mobile workspace.</strong></p>
 
 <p>
-Mobile architecture, local data ownership, REST API boundaries,
-authentication and access, subscription billing, offline behavior
-and traceability for a real Flutter-based product.
+A real product case separating local professional data from backend-controlled identity,
+access and billing, with explicit ownership, offline trust and integration boundaries.
 </p>
 
 <a href="https://github.com/branch-danya-dev/aveli-system-analysis">
-<img src="https://img.shields.io/badge/Open%20Aveli%20Case-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Case-Aveli-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 <h3>Rebar AutoDim</h3>
 
-<p><strong>System analysis and solution design for Autodesk Revit 2025 automation.</strong></p>
+<p><strong>System analysis and solution design for Autodesk Revit automation.</strong></p>
 
 <p>
-AS-IS / TO-BE, requirements, geometry processing, directional grid
-selection, placement logic, Revit API interaction, errors,
-idempotency and traceability.
+An implemented Revit 2025 plugin with view-space geometry, semantic references,
+deterministic annotation placement, transaction safety and generated-result regeneration.
 </p>
 
 <a href="https://github.com/branch-danya-dev/revit-rebar-autodim-analysis">
-<img src="https://img.shields.io/badge/Open%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Case-Rebar%20AutoDim-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>Full Portfolio</h3>
 
-<p><strong>Curated system-analysis cases across different system types.</strong></p>
+<p><strong>A concise entry point into my system-analysis work.</strong></p>
 
 <p>
-Enterprise IT, mobile architecture and BIM automation —
-with requirements, diagrams, business rules, data models,
-integrations and traceability.
+Enterprise transformation, mobile product architecture and BIM automation —
+with the detailed analysis kept inside the individual case repositories.
 </p>
 
 <a href="https://github.com/branch-danya-dev/system-analysis-portfolio">
-<img src="https://img.shields.io/badge/Explore%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Explore-Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 </tr>
 
 <tr>
@@ -113,19 +111,15 @@ integrations and traceability.
 
 <h3>SSAD — System-Structured Analysis Documentation</h3>
 
-<p><strong>Designed, formalized and applied my own practical system-analysis methodology.</strong></p>
+<p><strong>Designed, formalized and validated my own practical system-analysis methodology.</strong></p>
 
 <p>
 SSAD structures analytical knowledge around real system boundaries, responsibilities and ownership instead of a universal document taxonomy.
-I developed the methodology from practical system-analysis work, documented its workflow and analytical model, and applied it to the real Aveli system-analysis project as a validation case.
-</p>
-
-<p>
-The public repository includes the methodology foundation, end-to-end analyst workflow, analysis mechanics, knowledge architecture, collaboration and change models, task-based checklists, real-world examples and a v1.0 maturity roadmap.
+The methodology is now validated across three materially different system shapes: Aveli, Enterprise Workplace Migration and Rebar AutoDim.
 </p>
 
 <a href="https://github.com/branch-danya-dev/ssad-methodology">
-<img src="https://img.shields.io/badge/Open%20SSAD%20Methodology-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Open-SSAD%20Methodology-8250DF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -147,11 +141,167 @@ I focus on:
 - system and integration analysis;
 - requirements engineering and business rules;
 - API and contract design;
-- data and process modeling;
-- system behavior and state models;
+- data, state and process modeling;
+- system behavior, failures and change impact;
 - implementation-aware solution design.
 
 > I prefer analysis that can be implemented — requirements, contracts and architecture should remain valid when they reach real code.
+
+---
+
+## What I can help with
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<strong>New systems & features</strong><br><br>
+Turn an ambiguous request into clear boundaries, scenarios, rules and implementation-ready requirements.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>APIs & integrations</strong><br><br>
+Define responsibilities, contracts, data flows, failure behavior and interaction semantics across system boundaries.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Existing-system change</strong><br><br>
+Analyze the change surface, dependencies, compatibility risks and what must be reopened in the current model.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<strong>Data & states</strong><br><br>
+Clarify ownership, lifecycles, state transitions, history and derived views.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Complex logic</strong><br><br>
+Turn implicit behavior into explicit rules, exceptions, invariants and verifiable scenarios.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Delivery support</strong><br><br>
+Carry system meaning through review, grooming, implementation and verification.
+
+</td>
+</tr>
+</table>
+
+---
+
+## How I Work
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 01
+<strong>Understand the problem</strong><br><br>
+Context, users, expected outcome and constraints.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 02
+<strong>Define boundaries</strong><br><br>
+Responsibilities, ownership and authoritative sources.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 03
+<strong>Formalize behavior</strong><br><br>
+Requirements, scenarios, rules, states, data and failures.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 04
+<strong>Design interactions</strong><br><br>
+APIs, integrations, contracts and flows.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 05
+<strong>Align with implementation</strong><br><br>
+Review technical constraints and remove ambiguity with the team.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 06
+<strong>Verify the result</strong><br><br>
+Compare intended behavior with implementation and observed system behavior.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Core Competencies
+
+### System Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Requirements-Engineering-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Boundaries-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ownership-%26%20Authority-8250DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business-Rules-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State-Models-D29922?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Failure-Analysis-DA3633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Change-Impact-BC6F09?style=for-the-badge" />
+</p>
+
+### APIs, Integrations & Data
+
+<p>
+  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAPI-Swagger-6BA539?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-Contracts-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integration-Analysis-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Modeling-4B5563?style=for-the-badge" />
+</p>
+
+### Modeling & Working Tools
+
+<p>
+  <img src="https://img.shields.io/badge/BPMN-2.0-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-Modeling-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PlantUML-Diagrams-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+</p>
+
+---
+
+## Development Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Revit-API-186BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -166,7 +316,6 @@ Institute of Economics and Business<br>
 Accounting, Analysis and Audit
 
 </td>
-
 <td width="30%" align="right" valign="top">
 
 <strong>Higher Education</strong><br>
@@ -176,63 +325,6 @@ Graduation: 2026
 </tr>
 </table>
 
-
-## System Analysis Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/BPMN-2.0-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UML-Modeling-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Requirements-Engineering-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-API-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAPI-Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-Data%20Contracts-0D1117?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlantUML-Diagrams-0D1117?style=for-the-badge" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## Development Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## Areas of Focus
-
-<p>
-  <img src="https://img.shields.io/badge/System%20Analysis-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Integration%20Analysis-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Requirements-Engineering-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Rules-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Contracts-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Process%20Modeling-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/State%20Models-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solution%20Design-0D1117?style=for-the-badge" />
-</p>
-
 ---
 
 ## Contact
@@ -241,20 +333,16 @@ Graduation: 2026
   <a href="https://t.me/sadblueses">
     <img src="https://img.shields.io/badge/Telegram-@sadblueses-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="mailto:danrogulin@gmail.com">
     <img src="https://img.shields.io/badge/Email-danrogulin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/branch-danya-dev">
-    <img src="https://img.shields.io/badge/GitHub-branch--danya--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/branch-danya-dev/system-analysis-portfolio">
+    <img src="https://img.shields.io/badge/GitHub-System%20Analysis%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Open to system analysis, integration and architecture opportunities.</sub>
+  <sub>Open to system analysis, integration and solution-design opportunities.</sub>
 </p>
